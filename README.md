@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 Reach me at adikpote@gmail.com
 
 <!---
 AdityaPote/AdityaPote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
