@@ -4,7 +4,7 @@ AdityaPote/AdityaPote is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, Myself Aditya Pote/h1>
+<h1 align="center">Hi 👋, Myself Aditya Pote </h1>
 <h3 align="center">From Indian Institue of Information Technology, Gwalior (2020-25)</h3>
 
 <br>
