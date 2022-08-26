@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Web-Development
 
-- 🌱 I’m currently learning Machine Learning
-
 - 💞️ I’m looking to collaborate on 
 
 - 📫 Reach me at adikpote@gmail.com
