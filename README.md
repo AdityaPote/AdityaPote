@@ -12,9 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @AdityaPote
 
-- 👀 I’m interested in Web-Development
-
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Full Stack Web-Development
 
 - 📫 Reach me at adikpote@gmail.com
 
