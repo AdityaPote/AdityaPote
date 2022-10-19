@@ -50,11 +50,3 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br>
-
-<h2 align="left">🎵 Currently listening to: </h2>
-
-<h1 align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xbu4utzqvj6flmsgvbxrkpb4o&cover_image=true&theme=novatorem&bar_color=0898aa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</h1>
